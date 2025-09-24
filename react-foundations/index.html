@@ -12,6 +12,10 @@
         return <h1>{title}</h1>;
       }
 
+      function handleClick() {
+        console.log('increment like count');
+      }
+
       function HomePage() {
         const names = ['Ada Lovelace', 'Grace Hopper', 'Margaret Hamilton'];
 
@@ -26,6 +30,7 @@
               ))
             }
           </ul>
+          <button onClick={handleClick}>Like</button>
           </div>
         );
       }
