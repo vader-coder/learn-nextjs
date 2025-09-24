@@ -1,7 +1,11 @@
 # learn-nextjs
 
 react-foundations: https://nextjs.org/learn/react-foundations
+
 dashboard-app: https://nextjs.org/learn/dashboard-app
+react documentation for interactivity and adding state:
+https://react.dev/learn/adding-interactivity
+https://react.dev/learn/managing-state
 
 install nodejs: https://nodejs.org/en/download/current
 ```
