@@ -8,13 +8,13 @@
       // Select the div element with 'app' id
       const app = document.getElementById('app');
 
-      function Header() {
-        return <h1>Develop. Preview. Test. Ship.</h1>;
+      function Header(props) {
+        return <h1>{props.title}</h1>;
       }
 
       function HomePage() {
         return <div>
-          <Header/>
+          <Header title="React"/>
         </div>
       }
 
