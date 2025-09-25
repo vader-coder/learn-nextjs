@@ -25,3 +25,5 @@ node -v # Should print "v24.8.0".
 npm -v # Should print "11.6.0".
 ```
 
+react quick start: https://react.dev/learn
+react tic-tac tutorial: https://react.dev/learn/tutorial-tic-tac-toe
